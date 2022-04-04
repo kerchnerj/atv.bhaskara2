@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Roboto+Condensed&family=Varela+Round&display=swap');
+
+body {
+    font-family: "Acme", sans-serif;
+    font-size: 20px;
+    color: #1b2630;
+    background-color: #7d869b;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.calc-bhaskara {
+    padding: 1em;
+    box-shadow: 6px 6px 20px gray, -6px -6px 20px white;
+    background-color: #949cc4;
+  }
+    
+  .calc-bhaskara h1 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+  }
+  
+
+
